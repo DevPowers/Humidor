@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Humidor</string>
+    <string name="action_settings">Settings</string>
+    <string name="humidorTitleTextView">Your Humidor</string>
+    <string name="addCigarsTextView">Add Cigars</string>
+    <string name="getCigarsTextView">Get Cigars</string>
+    <string name="deleteCigarsTextView">Delete Cigars</string>
+    <string name="cigarQuantityTextView">Cigar Quantity:</string>
+    <string name="cigarNameTextView">Cigar Name:</string>
+    <string name="CreateHumidorDBButton">Create Humidor</string>
+    <string name="cigarDateTextView">Date purchased:</string>
+    <string name="addToHumidorButton">Add to Humidor</string>
+</resources>
